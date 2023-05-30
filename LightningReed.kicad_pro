@@ -246,7 +246,9 @@
     "pinned_footprint_libs": [
       "LightningReed"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "LightningReed"
+    ]
   },
   "meta": {
     "filename": "LightningReed.kicad_pro",
