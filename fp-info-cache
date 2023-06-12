@@ -1,4 +1,4 @@
-20162153157134196
+20163842504597785
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57574,6 +57574,13 @@ Yellow 5381 Series LED
 0
 2
 2
+LightningReed
+CHOKE
+
+
+0
+0
+0
 LightningReed
 C_Rect_L10.0mm_W6.0mm_P7.50mm_MKS4
 C, Rect series, Radial, pin pitch=7.50mm, , length*width=10*4.0mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf
